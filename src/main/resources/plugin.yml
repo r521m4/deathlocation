@@ -1,0 +1,4 @@
+name: deathlocation
+version: '${project.version}'
+main: com.github.r521m4.deathlocation.Deathlocation
+api-version: 1.19
